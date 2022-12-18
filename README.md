@@ -1,1 +1,3 @@
 # Applied-Data-Science-Capstone-SpaceX
+## Introduction
+SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upwards of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Spaces X’s Falcon 9 launch like regular rockets. As a Data Scientist of a new startup rivaling company (SpaceY), the objective of this project is to create a Machine Learning model to predict the landing outcome of the first stage. This project will provide insights into determining the reasonable cost to bid against SpaceX in rocket launching. 
